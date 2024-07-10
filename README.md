@@ -1,7 +1,7 @@
 
 ### Olá eu sou o Mateus Joaquim 😉
-Semestre 3/4 <br>
-Estudante do curso Análise e Desenvolvimento de Sistemas na Faculdade de tecnologia São Paulo Tech School
+<br>
+Recém formado no curso de Análise e Desenvolvimento de Sistemas na Faculdade São Paulo Tech School
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-silva-072015260?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bu7SmFYASTECKpQdGhP50Pg%3D%3D)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.j_dev/)
